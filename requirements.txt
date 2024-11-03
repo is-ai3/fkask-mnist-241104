@@ -1,3 +1,4 @@
+#--- change requirements_241021 to this file
 absl-py==1.4.0
 astor==0.8.1
 bleach==3.1.5
@@ -24,9 +25,9 @@ pillow==7.2.0
 protobuf==4.24.3
 requests==2.31.0
 six==1.16.0
-tensorboard>=2.17					# chage
+tensorboard>=2.17					  # chage
 tensorboard-data-server==0.7.1
-tensorflow==2.17.0
+tensorflow==2.17.0					 # change
 termcolor==2.3.0
 urllib3==1.26.16
 Werkzeug==2.3.7

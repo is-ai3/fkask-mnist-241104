@@ -9,12 +9,12 @@ flask==2.0.1
 future==0.18.2
 gast==0.4.0
 grpcio==1.58.0
-h5py==3.9.0
+#h5py==3.9.0			#--- delete
 html5lib==1.1
 itsdangerous==2.0
 idna==3.4
 Jinja2==3.0.1
-keras == 3.4.1
+keras == 3.4.1					
 line-bot-sdk==1.16.0
 Markdown==3.4.4
 MarkupSafe==2.1.3
